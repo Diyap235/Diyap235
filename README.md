@@ -39,17 +39,11 @@ Git | GitHub | VS Code | Postman | Notion
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diyap235&theme=blue-green&hide_border=false" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Diyap235&theme=blue-green&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyap235&theme=blue-green&hide_border=false&layout=compact" />
-</p>
 
 ---
 
