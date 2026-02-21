@@ -18,7 +18,7 @@ I believe in discipline, consistency, and compounding growth through daily effor
 ## 🎯 Currently Focused On
 
 - 🔧 Backend Development (Node.js, Express)
-- 🧠 Exploring Machine Learning Fundamentals
+- 🧠 Exploring Machine Learning 
 - 📊 Strengthening Data Structures & Algorithms
 - 🌱 Building real-world projects
 
@@ -60,7 +60,7 @@ Git | GitHub | VS Code | Postman | Notion
 
 ---
 
-## ✨ Engineering Philosophy
+## ✨My Philosophy 
 
 > “Hard work beats talent when talent doesn’t work hard.”  
 > I choose discipline over excuses. Every single day.
