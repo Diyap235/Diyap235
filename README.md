@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diyap235&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
----
+
 ## 👩‍💻 About Me
 
 🎓 Computer Science Engineering student at **CHARUSAT University**  
