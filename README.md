@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diya H. Prajapati</h1>
+<h1 align="center">Hey 👋, I'm Diya H. Prajapati</h1>
 <h3 align="center">Computer Science Engineering Student | Backend Developer | ML Explorer</h3>
 
 ---
