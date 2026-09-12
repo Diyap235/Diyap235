@@ -1,22 +1,28 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;Backend+Developer+%7C+ML+Explorer;Building+Projects+%7C+Learning+Every+Day;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Projects+%7C+Learning+Everyday+%7C+Leading+Teams)](https://git.io/typing-svg)
 
 </div>
 
-# 👋 Hi, I'm Diya H. Prajapati!
+<h1 align="center">👋 Hi, I'm Diya H. Prajapati!</h1>
 
-> Computer Science student who enjoys building, experimenting, and learning by doing.
+<p align="center">
+  Computer Science Engineering Student | Backend Developer | ML Explorer
+</p>
+
+---
 
 ## 🌟 About Me
 
 - 🎓 Computer Science Engineering student at **CHARUSAT University**
 - 💻 Interested in **Backend Development, Machine Learning & Cloud**
 - 🚀 Enjoy building projects and participating in **hackathons**
-- 👥 Love working with teams and taking responsibility when building something together
+- 👥 I enjoy working with teams and taking responsibility when building something together
 - 🧠 Currently strengthening my **DSA, problem solving and software development** skills
 - ☁️ Exploring **AWS & Cloud Computing**
-- 🌱 Always trying to turn what I learn into something practical
+- 🌱 Learning by building, experimenting and solving real problems
+
+---
 
 ## 🎯 Currently Learning & Building
 
@@ -25,15 +31,19 @@
 - ☁️ **AWS & Cloud Fundamentals**
 - 📊 **Data Structures & Algorithms**
 - 🚀 Real-world projects and hackathon ideas
-- 👥 Team collaboration & technical leadership
+- 👥 Team collaboration & leadership
+
+---
 
 ## 🏆 Recent Highlights
 
 - 🚀 Reached the **Odoo × Gandhinagar 2026 Grand Finale**
 - 🏆 Participated in hackathons and technical challenges
-- 👥 Taken leadership roles while working on team-based technical projects
+- 👥 Taken leadership roles in team-based technical projects
 - 💻 Worked across **Frontend, Machine Learning and Backend Development**
 - ☁️ Started going deeper into **AWS and Cloud technologies**
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -71,9 +81,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Diyap235&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyap235&theme=github_dark" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyap235&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyap235&theme=github_dark" height="180"/>
 
 <br><br>
 
@@ -85,7 +95,7 @@
 
 ## 🚀 What I'm Exploring
 
-- 🔧 Backend development with **Node.js & Express**
+- 🔧 Backend Development with **Node.js & Express**
 - 🤖 Machine Learning and practical ML projects
 - ☁️ AWS and Cloud fundamentals
 - 🧩 Data Structures & Algorithms
@@ -98,13 +108,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/diya-h-prajapati/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-h-prajapati/)
 
-<a href="mailto:diyap2359@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyap2359@gmail.com)
 
 </div>
 
