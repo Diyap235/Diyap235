@@ -30,9 +30,9 @@
 ## 🏆 Recent Highlights
 
 - 🚀 Reached the **Odoo × Gandhinagar 2026 Grand Finale**
-- 🏆 Competed in hackathons and technical challenges
-- 👥 Took leadership roles while working on team-based technical projects
-- 💻 Worked across **Frontend, ML and Backend**
+- 🏆 Participated in hackathons and technical challenges
+- 👥 Taken leadership roles while working on team-based technical projects
+- 💻 Worked across **Frontend, Machine Learning and Backend Development**
 - ☁️ Started going deeper into **AWS and Cloud technologies**
 
 ## 🛠️ Tech Stack
@@ -75,7 +75,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyap235&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Diyap235&theme=tokyonight&hide_border=true" />
 
@@ -83,13 +83,43 @@
 
 ---
 
-## 🚀 What I'm Interested In
+## 🚀 What I'm Exploring
 
-```text
-Backend Development
-Machine Learning
-Cloud Computing
-Software Engineering
-Problem Solving
-Hackathons
-Building Useful Products
+- 🔧 Backend development with **Node.js & Express**
+- 🤖 Machine Learning and practical ML projects
+- ☁️ AWS and Cloud fundamentals
+- 🧩 Data Structures & Algorithms
+- 🏆 Hackathons and team-based projects
+- 💡 Building useful solutions to real-world problems
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diya-h-prajapati/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:diyap2359@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ✨ My Philosophy
+
+> “Hard work beats talent when talent doesn't work hard.”
+
+I believe progress comes from **consistency, curiosity, and actually building things**.
+
+I'm still learning, still experimenting, and still figuring out what I want to build next.
+
+Every project, hackathon, and challenge gives me something new to learn.
+
+---
+
+⭐ **Always learning. Always building.**
